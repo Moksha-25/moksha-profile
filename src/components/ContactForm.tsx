@@ -43,7 +43,7 @@ export const ContactForm: React.FC = () => {
       icon: <Linkedin className="text-violet-600" size={20} />,
       label: 'LinkedIn Address',
       value: 'Injam Mokshagna',
-      href: 'https://linkedin.com/in/rb.gy/r3zyl5'
+      href: 'https://www.linkedin.com/in/injam-mokshagna'
     }
   ];
 

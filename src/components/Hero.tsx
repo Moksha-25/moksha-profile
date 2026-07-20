@@ -195,10 +195,10 @@ export const Hero: React.FC = () => {
                     <Phone size={14} /> <span>+91 9392728189</span>
                   </p>
                   <p className="flex items-center space-x-2">
-                    <Github size={14} /> <span>github.com/Moksha-25</span>
+                    <Github size={14} /> <a href="https://github.com/Moksha-25" target="_blank" rel="noopener noreferrer" className="hover:text-violet-600 dark:hover:text-violet-400 transition-colors">github.com/Moksha-25</a>
                   </p>
                   <p className="flex items-center space-x-2">
-                    <Linkedin size={14} /> <span>linkedin.com/in/rb.gy/r3zyl5</span>
+                    <Linkedin size={14} /> <a href="https://www.linkedin.com/in/injam-mokshagna" target="_blank" rel="noopener noreferrer" className="hover:text-violet-600 dark:hover:text-violet-400 transition-colors">linkedin.com/in/injam-mokshagna</a>
                   </p>
                 </div>
               </div>

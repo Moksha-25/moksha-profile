@@ -56,7 +56,7 @@ export const Footer: React.FC = () => {
             </a>
             <a
               id="footer-social-linkedin"
-              href="https://linkedin.com/in/rb.gy/r3zyl5"
+              href="https://www.linkedin.com/in/injam-mokshagna"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2.5 rounded-lg bg-slate-800 hover:bg-violet-600 hover:text-white text-slate-400 font-bold transition-all"
