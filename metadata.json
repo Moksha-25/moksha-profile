@@ -1,0 +1,6 @@
+{
+  "name": "Injam Mokshagna Portfolio",
+  "description": "The personal portfolio website of Injam Mokshagna, featuring his skills, educational qualifications, projects, and contact info in Data Science and Machine Learning.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
